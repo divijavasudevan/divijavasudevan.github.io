@@ -1,0 +1,10 @@
+h1{height:40px;
+    padding:20px; margin:5px;
+    border: 1px solid black}
+pre{height:20px; 
+    padding: 15px;
+    margin:-2px;
+                border: 1px solid black}
+header{padding:20px;
+    margin:5px;    border: 1px solid black}
+.mystyle{background-color: red}
