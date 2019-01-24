@@ -1,11 +1,11 @@
 *{box-sizing:border-box}
 .container{width: 100%; background-color: rgb(255, 255, 255)}
 .skills{text-align: right; padding: 10px;color: whitesmoke}
-.C{width: 80%; background-color: teal}
+.C{width: 90%; background-color: teal}
 .Cpp{width: 90%; background-color: rgb(124, 34, 165)}
-.Java{width: 50%; background-color: rgb(76, 36, 128)}
+.Java{width: 60%; background-color: rgb(76, 36, 128)}
 .HTML{width: 80%; background-color: rgb(25, 23, 138)}
-.CSS{width: 70%; background-color: rgb(55, 206, 206)}
-.SQL{width: 80%; background-color: rgb(7, 175, 253)}
+.CSS{width: 80%; background-color: rgb(55, 206, 206)}
+.SQL{width: 90%; background-color: rgb(7, 175, 253)}
 .box{border:1px solid whitesmoke; padding: 1%; width: 700px}
 .all{color: rgb(7, 48, 102)}
